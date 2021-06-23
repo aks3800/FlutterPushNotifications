@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "346918714240",
+    "project_id": "pushapp-62df4",
+    "storage_bucket": "pushapp-62df4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346918714240:android:b06d45697d116bf8cddf65",
+        "android_client_info": {
+          "package_name": "com.aks.push_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346918714240-94oj0k9pju2sdds6u5qjlnjt9c7kocd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcqJLy2eEQCio8hw8BXY_PZ-OlCfNkqtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346918714240-94oj0k9pju2sdds6u5qjlnjt9c7kocd5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "346918714240-c1flmo11i78pfjh98g4esnpjlc5osr61.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aks.pushApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
