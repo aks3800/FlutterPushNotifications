@@ -19,7 +19,7 @@ class PushNotificationsManager {
     _configure();
   }
 
-  /// Function to ask user for push notification permissions and if provided, save FCM Token in encrypted persisted local storage.
+  /// Function to ask user for push notification permissions and if provided, save FCM Token in persisted local storage.
   void _setFCMToken() async {
     FirebaseMessaging messaging = FirebaseMessaging.instance;
 
