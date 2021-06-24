@@ -1,0 +1,18 @@
+{
+    "aps": {
+        "alert": {
+            "subtitle": "Sample subtitle",
+            "title": "Sample title",
+            "body": "This is the sample body of the push notification."
+        },
+        "sound": "default",
+        "category": "FLUTTER_NOTIFICATION_CLICK",
+        "badge": 1,
+    },
+    "source": "some_key",
+    "metadata": {
+        "type": "waiting_room",
+    },
+    "click_action": "FLUTTER_NOTIFICATION_CLICK",
+    "Simulator Target Bundle": "com.aks.pushApp",
+}
